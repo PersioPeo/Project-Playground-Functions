@@ -1,2 +1,4 @@
-# playground-functions
-Projeto de Funções
+# playground-functions.
+Projeto de Funções.
+
+### Desenvolvido na Escola Trybe.
